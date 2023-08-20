@@ -1,5 +1,50 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Darrin White",
+      "id": 2
+    },
+    {
+      "name": "Ms. Amber Volkman",
+      "id": 3
+    },
+    {
+      "name": "Eva Swaniawski",
+      "id": 4
+    },
+    {
+      "name": "Carroll Barrows DVM",
+      "id": 5
+    },
+    {
+      "name": "Roberta Mayert",
+      "id": 6
+    },
+    {
+      "name": "Jacquelyn Gerhold DDS",
+      "id": 7
+    },
+    {
+      "name": "Henrietta Ankunding",
+      "id": 8
+    },
+    {
+      "name": "Helen Greenfelder DVM",
+      "id": 9
+    },
+    {
+      "name": "Pauline Hane",
+      "id": 10
+    },
+    {
+      "name": "Shari Hayes",
+      "id": 11
+    }
+  ],
   "albums": [],
   "photos": []
 }
