@@ -1,30 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Darrin White",
-      "id": 2
-    },
-    {
-      "name": "Ms. Amber Volkman",
-      "id": 3
-    },
-    {
-      "name": "Eva Swaniawski",
-      "id": 4
-    },
-    {
-      "name": "Carroll Barrows DVM",
-      "id": 5
-    },
-    {
-      "name": "Roberta Mayert",
-      "id": 6
-    },
-    {
       "name": "Jacquelyn Gerhold DDS",
       "id": 7
     },
@@ -43,8 +19,58 @@
     {
       "name": "Shari Hayes",
       "id": 11
+    },
+    {
+      "name": "Kerry Prohaska",
+      "id": 12
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 7
+    },
+    {
+      "userId": 7,
+      "title": "Tasty Soft Soap",
+      "id": 16
+    },
+    {
+      "userId": 7,
+      "title": "Intelligent Plastic Hat",
+      "id": 17
+    },
+    {
+      "userId": 7,
+      "title": "Fantastic Plastic Chicken",
+      "id": 18
+    },
+    {
+      "userId": 7,
+      "title": "Ergonomic Fresh Gloves",
+      "id": 19
+    },
+    {
+      "userId": 7,
+      "title": "Ergonomic Soft Computer",
+      "id": 20
+    },
+    {
+      "userId": 7,
+      "title": "Oriental Metal Soap",
+      "id": 21
+    },
+    {
+      "userId": 7,
+      "title": "Incredible Cotton Towels",
+      "id": 22
+    },
+    {
+      "userId": 7,
+      "title": "Elegant Metal Shirt",
+      "id": 23
+    }
+  ],
   "photos": []
 }
